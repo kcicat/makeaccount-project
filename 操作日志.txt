@@ -1,6 +1,0 @@
-1.将需要用到的基础头文件先在common.h头文件中声明（例如：string，iostream等待头文件）
-2.在account_struct.h头文件中设计结构体
-3.在common.h头文件中声明项目的全局变量（#define宏定义）--字符串常量声明
-4.在main主cpp文件中引入两个项目的头文件，并创建vector向量
-5.在main主文件中搭建主循环框架，并声明各函数
-6.在order.cpp文件中定义各菜单函数，在input.cpp文件中定义各检验输入函数，在opera
